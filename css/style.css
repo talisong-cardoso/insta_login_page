@@ -196,7 +196,7 @@ footer {
 }
 
 footer .footer-items:nth-child(2){
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 footer ul {
@@ -205,11 +205,12 @@ footer ul {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-bottom: 10px;
+
 }
 
 footer ul li {
-    margin-right: 15px;
+    margin-right: 20px;
+    margin-bottom: 10px;
 }
 
 footer ul li a {
